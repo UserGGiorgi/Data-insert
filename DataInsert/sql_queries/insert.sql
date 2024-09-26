@@ -1,3 +1,117 @@
+insert into order_details
+values(1,1,1,1,1,1);
+insert into order_details
+values(2,2,1,1,1,1);
+insert into order_details
+values(3,3,1,1,1,1);
+insert into order_details
+values(4,4,1,1,1,1);
+insert into order_details
+values(5,1,1,1,1,1);
+insert into order_details
+values(6,1,1,1,1,1);
+insert into order_details
+values(7,5,1,1,1,1);
+insert into order_details
+values(8,7,1,1,1,1);
+insert into order_details
+values(9,1,1,1,1,1);
+insert into order_details
+values(10,8,1,1,1,1);
+insert into order_details
+values(11,1,1,1,1,1);
+insert into order_details
+values(12,1,1,1,1,1);
+insert into order_details
+values(13,1,1,1,1,1);
+insert into order_details
+values(14,1,1,1,1,1);
+insert into order_details
+values(15,9,1,1,1,1);
+insert into order_details
+values(16,1,1,1,1,1);
+insert into order_details
+values(17,1,1,1,1,1);
+insert into order_details
+values(18,1,1,1,1,1);
+insert into order_details
+values(19,1,1,1,1,1);
+insert into order_details
+values(20,1,1,1,1,1);
+insert into product
+values(1,1,1,1,'mafsasfasdfasd');
+insert into product
+values(2,1,1,1,'mafsasfasdfasd');
+insert into product
+values(3,1,1,1,'mafsasfasdfasd');
+insert into product
+values(4,1,1,1,'mafsasfasdfasd');
+insert into product
+values(5,1,1,1,'mafsasfasdfasd');
+insert into product
+values(6,1,1,1,'mafsasfasdfasd');
+insert into product
+values(7,1,1,1,'mafsasfasdfasd');
+insert into product
+values(8,1,1,1,'mafsasfasdfasd');
+insert into product
+values(9,1,1,1,'mafsasfasdfasd');
+insert into product
+values(10,1,1,1,'mafsasfasdfasd');
+insert into product
+values(11,1,1,1,'mafsasfasdfasd');
+insert into product
+values(12,1,1,1,'mafsasfasdfasd');
+insert into product
+values(13,1,1,1,'mafsasfasdfasd');
+insert into product
+values(14,1,1,1,'mafsasfasdfasd');
+insert into product
+values(15,1,1,1,'mafsasfasdfasd');
+insert into product
+values(16,1,1,1,'mafsasfasdfasd');
+insert into product
+values(17,1,1,1,'mafsasfasdfasd');
+insert into product
+values(18,1,1,1,'mafsasfasdfasd');
+insert into product
+values(19,1,1,1,'mafsasfasdfasd');
+insert into product
+values(20,1,1,1,'mafsasfasdfasd');
+insert into manufacturer
+values(1,'dasda');
+insert into manufacturer
+values(2,'asf');
+insert into manufacturer
+values(3,'dasfasfda');
+insert into manufacturer
+values(4,'asf');
+insert into product_title
+values(1,'racxa',1);
+insert into product_title
+values(2,'racsxa',2);
+insert into product_title
+values(3,'rasfdcxa',3);
+insert into product_title
+values(4,'rasfscxa',3);
+insert into product_title
+values(5,'rafcxa',2);
+insert into product_title
+values(6,'rachxa',1);
+insert into product_title
+values(7,'rachxa',1);
+insert into product_title
+values(8,'rajcxa',1);
+insert into product_title
+values(9,'racnxa',1);
+insert into product_title
+values(10,'racgxa',1);
+insert into product_category
+values(1,'name');
+insert into product_category
+values(2,'name1');
+insert into product_category
+values(3,'name2');
 insert into person_contact
 values(1,1,1,'593444444');
 insert into person_contact
@@ -132,117 +246,3 @@ insert into city
 values(2,'munichh');
 insert into city
 values(3,'muniich');
-insert into order_details
-values(1,1,1,1,1,1);
-insert into order_details
-values(2,2,1,1,1,1);
-insert into order_details
-values(3,3,1,1,1,1);
-insert into order_details
-values(4,4,1,1,1,1);
-insert into order_details
-values(5,1,1,1,1,1);
-insert into order_details
-values(6,1,1,1,1,1);
-insert into order_details
-values(7,5,1,1,1,1);
-insert into order_details
-values(8,7,1,1,1,1);
-insert into order_details
-values(9,1,1,1,1,1);
-insert into order_details
-values(10,8,1,1,1,1);
-insert into order_details
-values(11,1,1,1,1,1);
-insert into order_details
-values(12,1,1,1,1,1);
-insert into order_details
-values(13,1,1,1,1,1);
-insert into order_details
-values(14,1,1,1,1,1);
-insert into order_details
-values(15,9,1,1,1,1);
-insert into order_details
-values(16,1,1,1,1,1);
-insert into order_details
-values(17,1,1,1,1,1);
-insert into order_details
-values(18,1,1,1,1,1);
-insert into order_details
-values(19,1,1,1,1,1);
-insert into order_details
-values(20,1,1,1,1,1);
-insert into product
-values(1,1,1,1,'mafsasfasdfasd');
-insert into product
-values(2,1,1,1,'mafsasfasdfasd');
-insert into product
-values(3,1,1,1,'mafsasfasdfasd');
-insert into product
-values(4,1,1,1,'mafsasfasdfasd');
-insert into product
-values(5,1,1,1,'mafsasfasdfasd');
-insert into product
-values(6,1,1,1,'mafsasfasdfasd');
-insert into product
-values(7,1,1,1,'mafsasfasdfasd');
-insert into product
-values(8,1,1,1,'mafsasfasdfasd');
-insert into product
-values(9,1,1,1,'mafsasfasdfasd');
-insert into product
-values(10,1,1,1,'mafsasfasdfasd');
-insert into product
-values(11,1,1,1,'mafsasfasdfasd');
-insert into product
-values(12,1,1,1,'mafsasfasdfasd');
-insert into product
-values(13,1,1,1,'mafsasfasdfasd');
-insert into product
-values(14,1,1,1,'mafsasfasdfasd');
-insert into product
-values(15,1,1,1,'mafsasfasdfasd');
-insert into product
-values(16,1,1,1,'mafsasfasdfasd');
-insert into product
-values(17,1,1,1,'mafsasfasdfasd');
-insert into product
-values(18,1,1,1,'mafsasfasdfasd');
-insert into product
-values(19,1,1,1,'mafsasfasdfasd');
-insert into product
-values(20,1,1,1,'mafsasfasdfasd');
-insert into manufacturer
-values(1,'dasda');
-insert into manufacturer
-values(2,'asf');
-insert into manufacturer
-values(3,'dasfasfda');
-insert into manufacturer
-values(4,'asf');
-insert into product_title
-values(1,'racxa',1);
-insert into product_title
-values(2,'racsxa',2);
-insert into product_title
-values(3,'rasfdcxa',3);
-insert into product_title
-values(4,'rasfscxa',3);
-insert into product_title
-values(5,'rafcxa',2);
-insert into product_title
-values(6,'rachxa',1);
-insert into product_title
-values(7,'rachxa',1);
-insert into product_title
-values(8,'rajcxa',1);
-insert into product_title
-values(9,'racnxa',1);
-insert into product_title
-values(10,'racgxa',1);
-insert into product_category
-values(1,'name');
-insert into product_category
-values(2,'name1');
-insert into product_category
-values(3,'name2');
